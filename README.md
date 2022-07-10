@@ -1,2 +1,2 @@
 # DOC2
-another doc
+This is another doc
